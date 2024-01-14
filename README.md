@@ -1,16 +1,15 @@
 # biomedicalfinal
+a new app for IIIT NAGPUR in collaboration with AIIMS NAGPUR.
+Language used: Dart
 
-A new Flutter project.
+## Visuals:
 
-## Getting Started
+https://github.com/Ashurajput02/biomedicalfinal/assets/119595975/76a134ea-e120-4038-b4a1-f904e5266564
 
-This project is a starting point for a Flutter application.
+![aiims app](https://github.com/Ashurajput02/biomedicalfinal/assets/119595975/5bd1743b-4688-491a-b718-b34351c24913)
+![infobar](https://github.com/Ashurajput02/biomedicalfinal/assets/119595975/797c775a-fd00-4891-8d1e-6bf351619066)
+When not connected to the device:
+![graph](https://github.com/Ashurajput02/biomedicalfinal/assets/119595975/6b671f34-b2ac-42b1-9c95-af41d1a16b4d)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+             When connected to the device:
+![grappher](https://github.com/Ashurajput02/biomedicalfinal/assets/119595975/2963fe18-e682-452c-86d0-9920a5221e41)
