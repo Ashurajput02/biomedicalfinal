@@ -4,12 +4,19 @@ Language used: Dart
 
 ## Visuals:
 
-https://github.com/Ashurajput02/biomedicalfinal/assets/119595975/76a134ea-e120-4038-b4a1-f904e5266564
+
 
 ![aiims app](https://github.com/Ashurajput02/biomedicalfinal/assets/119595975/5bd1743b-4688-491a-b718-b34351c24913)
-![infobar](https://github.com/Ashurajput02/biomedicalfinal/assets/119595975/797c775a-fd00-4891-8d1e-6bf351619066)
-When not connected to the device:
-![graph](https://github.com/Ashurajput02/biomedicalfinal/assets/119595975/6b671f34-b2ac-42b1-9c95-af41d1a16b4d)
 
-             When connected to the device:
-![grappher](https://github.com/Ashurajput02/biomedicalfinal/assets/119595975/2963fe18-e682-452c-86d0-9920a5221e41)
+When not connected to the device:
+
+![notconnected](https://github.com/Ashurajput02/biomedicalfinal/assets/119595975/26806c51-4887-4ab7-9746-deb6a8aa9c74)
+
+
+When connected to the device:
+![chartscreen](https://github.com/Ashurajput02/biomedicalfinal/assets/119595975/faa07cb4-5a8a-4186-9ac7-2e86714e07e8)
+
+On clicking stop button:
+![report](https://github.com/Ashurajput02/biomedicalfinal/assets/119595975/737d79a5-8841-4028-b15f-46e6107930e8)
+
+
